@@ -6,5 +6,5 @@ In the future i will build it by self to all people 🥺.
 
 ### Used languages
 - HTML
-- [photo]("") CSS
+- CSS
 - JavaScript
